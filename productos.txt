@@ -1,0 +1,1 @@
+[{"title":"Licuadora Potente","price":500,"thumbnail":"http://images.com","id":1},{"title":"PC Gamer","price":1100.5,"thumbnail":"http://images.com","id":2},{"title":"Play Station 5","price":16000,"thumbnail":"http://images.com","id":3}]
